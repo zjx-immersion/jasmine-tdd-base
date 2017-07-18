@@ -1,4 +1,4 @@
-const main = require('../main/main');
+import main from '../main/main';
 
 describe('main()', () => {
 
